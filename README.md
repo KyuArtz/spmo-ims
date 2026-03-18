@@ -6,11 +6,11 @@ The SPMO IMS is a system for easily managing and tracking requested consumables 
 
 1. Install Dependencies
 Navigate to your project directory and install the required packages: 
-npm install
+- npm install
    
 2. Start the Development Server
 Run the project in development mode: 
-npm run dev   
+- npm run dev   
 
 # React + Vite
 
