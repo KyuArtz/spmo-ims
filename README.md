@@ -2,6 +2,13 @@
 
 The SPMO IMS is a system to easily manage and track requested consumables throught different college and departments of USANT.
 
+# How to Run
+
+1. Install Dependencies
+   Navigate to your project directory and install the required packages: npm install
+2. Start the Development Server
+   Run the project in development mode: npm run dev   
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
