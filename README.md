@@ -1,16 +1,6 @@
 # USANT SPMO IMS
 
-The SPMO IMS is a system for easily managing and tracking requested consumables across several colleges and departments at USANT.
-
-# How to Run
-
-1. Install Dependencies
-Navigate to your project directory and install the required packages: 
-- npm install
-   
-2. Start the Development Server
-Run the project in development mode: 
-- npm run dev   
+The SPMO IMS is a system to easily manage and track requested consumables throught different college and departments of USANT.
 
 # React + Vite
 
